@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "bulma": "^0.9.3",
     "inquirer": "^6.3.1"
   }
 }
