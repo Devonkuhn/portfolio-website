@@ -153,7 +153,7 @@ nav ul {
 
 h2 {
     text-align: center;
-    
+    text-decoration: underline;
     font-size: 38px;
     color: var(--black);
     padding-bottom: 20px;
@@ -241,6 +241,7 @@ h4 {
     font-size: 38px;
     margin-bottom: 30px;
     color: var(--black);
+    text-decoration: underline;
 }
 
 
